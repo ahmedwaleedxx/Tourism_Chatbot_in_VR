@@ -1,0 +1,135 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4879278350198572679
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557900, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478342020557902, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: m_Name
+      value: App Voice Experience
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478343361762573, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: OnButtonUp.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 870448113}
+    - target: {fileID: 4987478343361762573, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: OnButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 870448113}
+    - target: {fileID: 4987478343361762573, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: OnButtonUp.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetActivation
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478343361762573, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: OnButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetActivation
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478343361762573, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: OnButtonUp.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: RecognizeSpeech, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 4987478343361762573, guid: d6606d647f03694459c9600cebe851c3,
+        type: 3}
+      propertyPath: OnButtonDown.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: RecognizeSpeech, Assembly-CSharp
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d6606d647f03694459c9600cebe851c3, type: 3}
+--- !u!114 &468859169684974280 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4987478342020557903, guid: d6606d647f03694459c9600cebe851c3,
+    type: 3}
+  m_PrefabInstance: {fileID: 4879278350198572679}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28779cfed47441a42a6cd4fb49c8dc89, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &468859169418449801 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4987478343361762574, guid: d6606d647f03694459c9600cebe851c3,
+    type: 3}
+  m_PrefabInstance: {fileID: 4879278350198572679}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &870448113
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 468859169418449801}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5814f2b6de2b1ab45b031f93add3058f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  freshStateText: Press on A or X and Speak
+  textArea: {fileID: 0}
+  showJson: 0
+  appVoiceExperience: {fileID: 468859169684974280}
