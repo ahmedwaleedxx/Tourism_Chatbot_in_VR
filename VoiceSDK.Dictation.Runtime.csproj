@@ -62,7 +62,6 @@
     <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\API\Service\AppDictationExperience.cs" />
     <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\Bindings\Android\DictationConfigurationBinding.cs" />
     <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\Data\WitDictationRuntimeConfiguration.cs" />
-    <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\Utilities\MicPermissionsManager.cs" />
     <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\Bindings\Android\PlatformDictationImpl.cs" />
     <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\Bindings\Android\DictationListenerBinding.cs" />
     <Compile Include="Assets\Oculus\Voice\Features\Dictation\Scripts\Runtime\Bindings\Android\PlatformDictationSDKBinding.cs" />
